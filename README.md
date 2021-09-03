@@ -6,6 +6,6 @@
 `where one has fallen, if and only if he is down you shall rise`
 
 ---
-** Not to worry for the time is now **
+**Not to worry for the time is now**
 
 
