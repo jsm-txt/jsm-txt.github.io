@@ -9,3 +9,14 @@
 **Not to worry for the time is now**
 
 
+* this page is still under contruction, please wait patiently for future updates*
+
+Here are some cuurent working links
+
+
+
+
+Created by: Jose Salazar Mendez, 
+For: Jose Salazar Mendez,
+To Jose Salazar Mendez
+
