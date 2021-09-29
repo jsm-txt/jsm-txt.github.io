@@ -14,20 +14,25 @@
 Here are some cuurent working links
 
 My github profile:
-* https://github.com/jsm-txt
+* [https://github.com/jsm-txt](https://github.com/jsm-txt)
 
 Check status of thatjose.me
-* https://statuspage.freshping.io/56549-thatjose
+* [hhttps://statuspage.freshping.io/56549-thatjose](https://statuspage.freshping.io/56549-thatjose)
 
-Projects
+Projects:
+
   An informational site about energy storage!
    * [https://thatjose.me/SinglePageSite/](https://thatjose.me/SinglePageSite/)
+   
   A site to determine tip price
    * [https://thatjose.me/TipCalculator/](https://thatjose.me/TipCalculator/)
+   
   A block breaker game using javascrip from the breakout tutorial
    * [https://thatjose.me/BreakOut/](https://thatjose.me/BreakOut/)
+  
   A web page using bootstrap for simple effective UI
    * [https://thatjose.me/BootstrapWebpage/](https://thatjose.me/BootstrapWebpage/)
+  
   Hoya housing, a price app for buying and selling houses
    * [https://hoya-housing.herokuapp.com](https://hoya-housing.herokuapp.com)
 
