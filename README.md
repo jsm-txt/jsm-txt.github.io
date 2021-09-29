@@ -21,19 +21,19 @@ Check status of thatjose.me
 
 Projects
   An informational site about energy storage!
-   * https://thatjose.me/SinglePageSite/
+   * [https://thatjose.me/SinglePageSite/](https://thatjose.me/SinglePageSite/)
   A site to determine tip price
-   * https://thatjose.me/TipCalculator/
+   * [https://thatjose.me/TipCalculator/](https://thatjose.me/TipCalculator/)
   A block breaker game using javascrip from the breakout tutorial
-   * https://thatjose.me/BreakOut/
+   * [https://thatjose.me/BreakOut/](https://thatjose.me/BreakOut/)
   A web page using bootstrap for simple effective UI
-   * https://thatjose.me/BootstrapWebpage/
+   * [https://thatjose.me/BootstrapWebpage/](https://thatjose.me/BootstrapWebpage/)
   Hoya housing, a price app for buying and selling houses
-   * https://hoya-housing.herokuapp.com
+   * [https://hoya-housing.herokuapp.com](https://hoya-housing.herokuapp.com)
 
-
+Future deployed projects to be added soon! Stay tooned!
+ `check github for current and oongoing projects`
 
 Created by: Jose Salazar Mendez, 
 For: Jose Salazar Mendez,
 To Jose Salazar Mendez
-
