@@ -32,7 +32,7 @@ Projects
    * [https://hoya-housing.herokuapp.com](https://hoya-housing.herokuapp.com)
 
 Future deployed projects to be added soon! Stay tooned!
- `check github for current and oongoing projects`
+ `check github for current and ongoing projects`
 
 Created by: Jose Salazar Mendez, 
 For: Jose Salazar Mendez,
