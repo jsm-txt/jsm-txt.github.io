@@ -1,25 +1,28 @@
 # Hello fellow traveler. Your century long search has finally reached its end!
-## We have been expexting you, after that is why you have made it here. 
+## We have been expecting you, after that is why you have made it here. 
 ### For it is not just fate but your duty to be here.
-*this page was created to serve you, the client, and provide you with whatever you need to get you on your way to slay the demon lord*
+*this page was created to serve you, the client, and provide you with whatever you need to get you on your way to slay the powers of darkness*
 
-`where one has fallen, if and only if he is down you shall rise`
+`where one has fallen, you shall rise`
 
 ---
 **Not to worry for the time is now**
 
 
-*this page is still under contruction, please wait patiently for future updates*
+*this page is still under construction, please wait patiently for future updates*
 
-Here are some cuurent working links
+Here are some current working links
 
 My github profile:
 * [https://github.com/jsm-txt](https://github.com/jsm-txt)
 
 Check status of thatjose.me
-* [hhttps://statuspage.freshping.io/56549-thatjose](https://statuspage.freshping.io/56549-thatjose)
+* [https://statuspage.freshping.io/56549-thatjose](https://statuspage.freshping.io/56549-thatjose)
 
 Projects:
+
+  Get your weather information here!
+   * [http://everythingweather.thatjose.me](http://everythingweather.thatjose.me)
 
   An informational site about energy storage!
    * [https://thatjose.me/SinglePageSite/](https://thatjose.me/SinglePageSite/)
